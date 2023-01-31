@@ -1,4 +1,4 @@
 # Lab 2: Automatic Emergency Braking
-
+Safety node is inside src folder
 ## YouTube video link
-[FILL ME IN](https://tinyurl.com/22mts2ax)
+[FILL ME IN](https://youtu.be/4Gzl7geC2Zo)
